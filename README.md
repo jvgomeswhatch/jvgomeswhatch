@@ -140,7 +140,7 @@ Atualmente trabalho como **desenvolvedor autônomo**, liderando projetos do conc
 
 <div align="center">
 
-💼 **[Meu Site](https://jvportifolio.vercel.app/)** | 📧 **Entre em Contato** | 🐙 **GitHub**
+💼 **[Meu Site](https://jvportifolio.vercel.app/)** |:email:joaogomesvitor@hotmail.com| 
 
 </div>
 
