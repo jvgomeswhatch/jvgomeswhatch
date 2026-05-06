@@ -53,17 +53,6 @@ Atualmente trabalho como **desenvolvedor autônomo**, liderando projetos do conc
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 📊 Estatísticas GitHub
-
-<a href="https://github.com/jvgomeswhatch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvgomeswhatch&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgomeswhatch&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
 ## 📚 Formação Acadêmica
 
 ### 🎓 Data Science, Inteligência Artificial e Analytics
