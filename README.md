@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou João Victor
+# 👋 Olá! Eu sou Vitor
 
 <div align="center">
 
-### 💻 Desenvolvedor Web | 🎯 Full Stack | ☁️ DevOps Enthusiast
+### 💻 Desenvolvedor Web | 🎯 Full Stack | ☁️ DevOps
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jvportifolio.vercel.app-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://jvportifolio.vercel.app/)
+[![Site](https://img.shields.io/badge/Site-jvportifolio.vercel.app-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://jvportifolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
@@ -52,6 +52,15 @@ Atualmente trabalho como **desenvolvedor autônomo**, liderando projetos do conc
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas GitHub
+
+<a href="https://github.com/jvgomeswhatch">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvgomeswhatch&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgomeswhatch&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
@@ -138,23 +147,11 @@ Atualmente trabalho como **desenvolvedor autônomo**, liderando projetos do conc
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvgomeswhatch&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvgomeswhatch&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Let's Connect!
 
 <div align="center">
 
-💼 **[Meu Portfólio](https://jvportifolio.vercel.app/)** | 📧 **Entre em Contato** | 🐙 **GitHub**
+💼 **[Meu Site](https://jvportifolio.vercel.app/)** | 📧 **Entre em Contato** | 🐙 **GitHub**
 
 </div>
 
