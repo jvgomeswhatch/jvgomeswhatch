@@ -1,15 +1,4 @@
-<div align="center">
-
-```
- ██╗ ██████╗  █████╗  ██████╗      ██╗   ██╗██╗████████╗ ██████╗ ██████╗
- ██║██╔═══██╗██╔══██╗██╔═══██╗     ██║   ██║██║╚══██╔══╝██╔═══██╗██╔══██╗
- ██║██║   ██║███████║██║   ██║     ██║   ██║██║   ██║   ██║   ██║██████╔╝
-██╗██║   ██║██╔══██║██║   ██║     ╚██╗ ██╔╝██║   ██║   ██║   ██║██╔══██╗
-╚████╔╝╚██████╔╝██║  ██║╚██████╔╝      ╚████╔╝ ██║   ██║    ╚██████╔╝██║  ██║
- ╚═══╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝        ╚═══╝  ╚═╝   ╚═╝     ╚═════╝ ╚═╝  ╚═╝
-```
-
-# 👋 Olá, eu sou João Vitor Gomes
+# 👋 Olá, eu sou João Vitor
 
 ### Full Stack Developer · AI Engineer · DevOps
 
@@ -31,7 +20,7 @@ Desenvolvedor **Full Stack e AI Engineer** apaixonado por construir soluções q
 Atualmente atuo como **desenvolvedor autônomo**, liderando projetos do conceito ao deploy, integrando desenvolvimento, DevOps e inteligência artificial em soluções reais e robustas.
 
 ```
-📍 Jacareí, SP — Brasil
+📍 São Paulo, SP — Brasil
 💼 Disponível para projetos freelance e oportunidades remotas
 🎓 Análise e Desenvolvimento de Sistemas (ETEP, 2025) + Data Science & IA (USP ESALQ, 2027)
 ```
