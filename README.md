@@ -80,7 +80,7 @@ Atualmente atuo como **desenvolvedor autônomo**, liderando projetos do conceito
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [Agente Meteorológico — LLM com Validação e Fallback Inteligente](https://github.com/jvgomeswhatch) `2026`
+### 🤖 [Agente Meteorológico — LLM com Validação e Fallback Inteligente](https://github.com/jvgomeswhatch/AgenteMetereologico) `2026`
 > Agente de previsão do tempo confiável com mecanismos anti-alucinação, fallback via Regex e memória contextual.
 
 **Desafio:** Modelos LLM locais apresentavam risco de alucinação ao consumir dados meteorológicos em tempo real.  
@@ -91,7 +91,7 @@ Atualmente atuo como **desenvolvedor autônomo**, liderando projetos do conceito
 
 ---
 
-### 🏟️ [IA Scout — Plataforma de Scouting com LLM Local](https://github.com/jvgomeswhatch) `2026`
+### 🏟️ [IA Scout — Plataforma de Scouting com LLM Local](https://github.com/jvgomeswhatch/SCOUTIA) `2026`
 > Plataforma inteligente de análise de jogadores com IA, sem dependência de APIs pagas.
 
 **Desafio:** Criar sistema de scouting completo com LLM local, limitado a infraestrutura com 16GB RAM.  
@@ -102,7 +102,7 @@ Atualmente atuo como **desenvolvedor autônomo**, liderando projetos do conceito
 
 ---
 
-### ⚙️ [Event-Driven Microservices Platform](https://github.com/jvgomeswhatch) `2026`
+### ⚙️ [Event-Driven Microservices Platform](https://github.com/jvgomeswhatch/Event-Drive-Micro-AWS) `2026`
 > Plataforma distribuída de processamento de pedidos com mensageria, observabilidade e tolerância a falhas.
 
 **Desafio:** Simular arquitetura distribuída AWS localmente para estudo avançado de sistemas orientados a eventos.  
