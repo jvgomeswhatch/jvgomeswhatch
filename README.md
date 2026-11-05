@@ -156,13 +156,3 @@ Atendimento remoto via AnyDesk para lojas em todo o Brasil — **redução de 20
 
 🎓 **Data Science, Inteligência Artificial e Analytics** — USP ESALQ *(Previsão: Maio/2027)*  
 🎓 **Análise e Desenvolvimento de Sistemas** — Centro Universitário ETEP *(Dezembro/2025)*
-
----
-
-<div align="center">
-
-*"Código bom é aquele que resolve o problema real — com clareza, confiabilidade e escalabilidade."*
-
-⭐ Se algum projeto te interessou, considere deixar uma estrela!
-
-</div>
