@@ -126,6 +126,17 @@ Atualmente atuo como **desenvolvedor autônomo**, liderando projetos do conceito
 
 ## 💼 Experiência Profissional
 
+### 🛍️ Fundador e Desenvolvedor Full Stack — *JV.SOURCE* `SET/2026 – atual`
+E-commerce de streetwear **em produção**, projetado e desenvolvido do zero: vitrine, pagamentos, logística, segurança e painel administrativo. 🌐 [jvsource.com.br](https://jvsource.com.br)
+
+- **Peça única sem reserva:** quem inicia o pagamento ganha prioridade, o banco só confirma o dono após a aprovação financeira, e cobranças duplicadas são **estornadas automaticamente**
+- **Pagamento confiável:** três vias de confirmação (resposta, webhook e reconciliador periódico) num fluxo **idempotente**: nenhum pagamento perdido nem processado duas vezes
+- **Logística automática:** etiqueta comprada no **Melhor Envio** e e-mail com rastreio enviados sozinhos após a venda
+- **Segurança e privacidade:** dados pessoais cifrados com **AES-256-GCM**, painel com **MFA (TOTP)**, trilha de auditoria imutável e servidor acessível só pela **Cloudflare**
+- **Qualidade:** CI com varredura de segurança, testes contra serviços reais e falha provocada de propósito em cada proteção
+
+`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Mercado Pago` `Melhor Envio` `Cloudflare` `Vercel` `GitHub Actions`
+
 ### 👨‍💻 Desenvolvedor Fullstack Freelancer — *Autônomo* `OUT/2025 – atual`
 Desenvolvimento de aplicações modernas e escaláveis com foco em JavaScript, TypeScript e IA aplicada. Responsável pela arquitetura, infraestrutura e deployment end-to-end. Colaboração com desenvolvedores experientes em decisões técnicas, code review e padrões de desenvolvimento.
 
